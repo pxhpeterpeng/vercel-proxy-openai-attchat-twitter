@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://www.twitter.com" },
+        { "source": "/", "destination": "https://studio.youtube.com" },
         {
             "source": "/:match*",
-            "destination": "https://www.twitter.com/:match*"
+            "destination": "https://studio.youtube.com/:match*"
         }
     ],
     "github": {
